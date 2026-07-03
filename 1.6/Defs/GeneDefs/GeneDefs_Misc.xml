@@ -114,7 +114,7 @@
 	<GeneDef>
 		<defName>VREH_Arrogant</defName>
 		<label>arrogant</label>
-		<description>Carriers of this gene do not have a filter and always say what’s on their mind, even if it rubs the others the wrong way.</description>
+		<description>Carriers of this gene do not have a filter and always say what's on their mind, even if it rubs the others the wrong way.</description>
 		<iconPath>UI/GeneIcons/Gene_Arrogant</iconPath>
 		<displayCategory>Miscellaneous</displayCategory>
 		<displayOrderInCategory>552</displayOrderInCategory>
