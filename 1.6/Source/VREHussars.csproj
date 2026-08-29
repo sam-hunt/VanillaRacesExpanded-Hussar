@@ -79,6 +79,7 @@
     <Compile Include="Harmony\HarmonyPatches.cs" />
     <Compile Include="DefOfs\VREH_DefOf.cs" />
     <Compile Include="StaticCollectionsClass\StaticCollectionsClass.cs" />
+    <Compile Include="Utilities\UniqueWeaponUtility.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
